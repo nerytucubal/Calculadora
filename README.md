@@ -16,5 +16,5 @@ Este proyecto es una **calculadora básica** construida con **HTML, CSS y JavaSc
 ## 🛠️ Tecnologías utilizadas
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
